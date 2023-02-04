@@ -1,6 +1,6 @@
-`#### TXON_03 ####`
+`# TXON_03 `
 
-### Create a to-do list App ###
+Create a to-do list App 
 
 In this project, you will be using Basic Html, CSS, and JavaScript. in this project, you will do.
 1. You will use crud operation, crud operation means to create, read, update and delete.
