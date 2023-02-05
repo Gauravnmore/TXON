@@ -1,4 +1,4 @@
-# `TXON_02 : Create a simple Calculator` 
+# `📍TXON_02 : Create a simple Calculator` 
 
 In this project, you will be using Basic Html, CSS, and JavaScript. in this calculator, you will develop the following feature.
 1. Mathematical operator: Addition (+), Subtraction (-), Multiplication (*), Division (/).
