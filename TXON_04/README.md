@@ -1,6 +1,4 @@
-# `📍TXON_04`
-
-Create Your Portfolio Website 
+# `📍TXON_04 - Create Your Portfolio Website `
 
 In this project, you will be using Basic Html, CSS, and JavaScript.
 A portfolio website provides professional information about an individual or a company and presents a showcase of their work.
